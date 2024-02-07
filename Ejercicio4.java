@@ -6,12 +6,15 @@ public class Ejercicio4 {
 
 
         System.out.print("Introduzca la distancia recorrida (km): ");
-        double distanciaRecorrida = scanner.nextDouble();
+        double distancia = scanner.nextDouble();
 
 
         System.out.print("Introduzca el tiempo empleado (horas): ");
-        double tiempoEmpleado = scanner.nextDouble();
+        double tiempo = scanner.nextDouble();
 
 
+    }
+    public static double calcularVelocidadMedia(double distancia, double tiempo) {
+        return distancia / tiempo;
     }
 }
