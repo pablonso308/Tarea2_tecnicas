@@ -25,4 +25,11 @@ public class Ejercicio4 {
 
 //para poder integrar este calculo a un gran sistema de inteligencia artificial es necesaria una arquitectura modular y flexible que permita la integracion de otros componentes.
 //Además, el uso de estándares y protocolos abiertos facilita la interoperabilidad con otras aplicaciones y sistemas externos.
-
+//otros paramatros que pueden ser utiles para analizar en ese contexto son:
+//Congestión de Tráfico
+//Eficiencia de Combustible
+//Tiempo de Espera en Semáforos y Cruces
+//Modos de Transporte Utilizados
+//Niveles de Contaminación del Aire
+//Accidentes de Tráfico
+//Patrones de Movilidad de Peatones
