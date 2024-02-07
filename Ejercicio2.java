@@ -10,10 +10,10 @@
 // Esto podría ser la salida predicha del modelo o algún otro tipo de información relevante.
 
 //Operaciones relacionadas con el entrenamiento o evaluación del modelo:
-//
+
 //Dentro del bucle, podrían estar ocurriendo operaciones que están relacionadas con el entrenamiento o evaluación del modelo.
 // Esto podría incluir procesos como la alimentación de datos al modelo, ajuste de parámetros, predicciones o evaluación del rendimiento del modelo
 
 //Iteración sobre datos de entrenamiento o conjunto de datos:
-//
+
 //El bucle "para" podría estar iterando sobre un conjunto de datos de entrenamiento, lo que indicaría que las operaciones dentro del bucle están destinadas a manipular y procesar datos de entrenamiento.
